@@ -1,0 +1,11 @@
+title: Xiaoyang Wang
+url: "https://xiaoyang-wang.github.io"
+baseurl: "/Xiaoyang Wang"
+
+markdown: kramdown
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
