@@ -3,19 +3,21 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [xiaoyangwang2018@u.northwestern.edu](mailto:xiaoyangwang2018@u.northwestern.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1-7736540727](tel:+1-7736540727)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Ford 2.204
 >
-> London
+> 2133 Sheridan Road
 >
-> United Kingdom
+> Evanston, IL
+>
+> United States
 
 ---
 
