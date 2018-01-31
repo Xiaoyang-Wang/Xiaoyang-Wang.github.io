@@ -6,8 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-My name is Xiaoyang Wang. I am currently a Master student in Computer Engineering at Northwestern University, Illinois, USA.I hold a Bachelor of Engineering in Automation from Central South University, Changsha, China.
-
+I am currently a Master student in Computer Engineering at Northwestern University, Illinois, USA.I hold a Bachelor of Engineering in Automation from Central South University, Changsha, China.
 
 ## Research Interest
 
@@ -41,5 +40,6 @@ Here is a blockquote -->
 ## References
 
 Available upon request.
+
 <!-- * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum -->
