@@ -14,5 +14,5 @@ I am working on intersection of operating systems and parallel systems.
 
 ## Publications
 
-1. P. Dinda, X. Wang, J. Wang, C. Beauchene, C. Hetland, ”Bringing Hard Real-Time to the Parallel Hybrid Run- time”, International Symposium on High-Performance Parallel and Distributed Computing (HPDC). ACM, 2018. [Submitted]
-2. Y. Luo, X. Wang, G. Memik, S. Ogrenci-Memik, K. Yoshii, P. Beckman, ”Title Not Included due to Double-Blind Review”, Design Automation Conference (DAC). IEEE, 2018. [Submitted]
+1. P. Dinda, X. Wang, J. Wang, C. Beauchene, C. Hetland, ”Hard real-time Scheduling for Parallel Run-time Systems”, International Symposium on High-Performance Parallel and Distributed Computing (HPDC). ACM, 2018.
+2. Y. Luo, X. Wang, G. Memik, S. Ogrenci-Memik, K. Yoshii, P. Beckman, ”Minimizing Thermal Variation in Heterogeneous HPC Systems with FPGA Nodes”, International Conference on Computer Design (ICCD). IEEE, 2018.
