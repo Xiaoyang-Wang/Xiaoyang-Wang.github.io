@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [xiaoyangwang2018@u.northwestern.edu](mailto:xiaoyangwang2018@u.northwestern.edu)
+* Email: [xw28@illinois.edu](mailto:xw28@illinoisedu)
 
 * Phone: [+1-7736540727](tel:+1-7736540727)
 
@@ -11,13 +11,9 @@ is_contact: true
 
 ## Mailing Address
 
-> Ford 2.204
+> Room 4103, Thomas M. Siebel Center for Computer Science
 >
-> 2133 Sheridan Road
->
-> Evanston, IL
->
-> United States
+> 201 N Goodwin Ave, Urbana, IL, 61801
 
 ---
 
