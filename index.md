@@ -10,7 +10,7 @@ I'm currently a Ph.D student in Computer Science at University of Illinois at Ur
 
 ## Research Interest
 
-I broadly interested in computer systems.
+I'm broadly interested in computer systems.
 
 ## Publications
 
