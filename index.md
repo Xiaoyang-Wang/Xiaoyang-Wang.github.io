@@ -6,11 +6,11 @@ layout: default
 
 <!-- <img class="profile-picture" src=".jpg"> -->
 
-I am a Master student in Computer Engineering at Northwestern University, working with Profs. Peter Dinda and Gokhan Memik. I received my Bachelor degree in Automation from Central South University.
+I'm currently a Ph.D student in Computer Science at University of Illinois at Urbana–Champaign. Before I came to UIUC, I was a Master student in Computer Engineering at Northwestern University, worked with Profs. Peter Dinda and Gokhan Memik. I received my Bachelor's degree in Automation from Central South University.
 
 ## Research Interest
 
-I am working on intersection of operating systems and parallel systems.
+I broadly interested in computer systems.
 
 ## Publications
 
